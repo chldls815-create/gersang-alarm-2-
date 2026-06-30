@@ -15,7 +15,7 @@ REDIRECT_URI = "https://localhost"
 
 # ⚠️ 중요: 최초 성공 시 받은 'refresh_token'을 여기에 꼭 넣어주세요!
 # 이 토큰이 있어야 서버가 24시간 동안 죽지 않고 출입증을 자동 갱신합니다.
-REFRESH_TOKEN = "DDAPSBTS8WVuI6vte35aF8u6T17K7sNNAAAAAQoXC2sAAAGfGGexM_6hmr4nKm-b"
+REFRESH_TOKEN = "at2ey84esiE8npEUdoqfwarxgHBJ1gOEAAAAAgoXNd0AAAGfGG0FhP6hmr4nKm-b"
 # =====================================================
 
 # 글로벌 변수로 현재 활성화된 출입증 관리
